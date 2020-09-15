@@ -1,3 +1,14 @@
+Breif descirption: 
+   This is a memory game desgined in react. The game provides the user with 10 photographs of birds. The user will then need to select each of the ten birds without clicking any single picture twice. Upon each click, the photographs of the birds reshuffle. If the user clicks any of the bird twice, they fail the game.
+   
+Technologies used: 
+1. React
+2. css
+3. Hover.css
+
+The following text was generated automatically with react:
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
